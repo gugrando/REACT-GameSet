@@ -3,9 +3,12 @@
 <h1 align="start"> Stacks: </h1>
 <ul align="start"> 
   <li>Javascript ES6</li>
-  <li>React</li>
+  <li>React w/ Vite</li>
   <li>Tailwind</li>
 </ul>
 <h2>
-
+    Observation:
 </h2>
+<p>
+    Basic screen made in React, using the fundamentals and good practices, reviewing components and props. For this small project I used Vite as a React development space
+</p>
