@@ -12,5 +12,6 @@
 <p>
     Basic screen made in React, using the fundamentals and good practices, reviewing components and props. For this small project I used Vite as a React development space
   <br>
+  <br>
   !disregard the games and streamers used in this example XD
 </p>
